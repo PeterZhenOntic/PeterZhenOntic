@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Peter Zhen
-- 👀 I’m interested in Pricing Strategies and analytics.
+- 👀 I’m interested in Strategies and Analytics.
 - 🌱 I’m currently learning price quoting, product lines at Ontic, and dashboard, etc.
 - 💞️ I’m looking to collaborate on building unclutttered BI reports and models to optimize pricing.
 - 📫 How to reach me Peter.Zhen@OnticGlobal.net
